@@ -1,3 +1,4 @@
+![Header](https://i.pinimg.com/originals/bb/d8/5f/bbd85fa86d8dc8e3fc64d086f6641a5c.gif)
 # 👋 Hi, I'm Muhannad Majed!
 
 **🎓 Computer Science Student | Qassim University**
@@ -34,13 +35,13 @@ Building a user-friendly platform to manage Quran schools, including student rec
 - 🌐 **Web Development**: From backend logic to frontend interactions, I'm eager to develop innovative web solutions.
 
 ---
-<!--
 ## 📫 Let's Connect!
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [mohanad.alfawzan1@gmail.com](mailto:mohanad.alfawzan1@gmail.com)
+<!--
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 --->
-
+---
 Feel free to explore my repositories and reach out if you'd like to collaborate on an interesting project!
 
 
