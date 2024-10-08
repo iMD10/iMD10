@@ -22,7 +22,7 @@ I'm passionate about **Artificial Intelligence** and **Web Development**, with a
 
 ---
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on 
 ### 📘 Ertaq Project 
 **CRUD Website for Quran Schools**  
 Building a user-friendly platform to manage Quran schools, including student records, classes, and administrative tasks. This project enhances operational efficiency through a streamlined and intuitive interface.
