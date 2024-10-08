@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Muhannad Majed!
 
 **🎓 Computer Science Student | Qassim University**
