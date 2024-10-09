@@ -14,7 +14,7 @@ I'm passionate about **Artificial Intelligence** and **Web Development**, with a
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
+  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
 - **Database Skills**:  
   📂 Database design, complex queries, optimization strategies, and management.
 
