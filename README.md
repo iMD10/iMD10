@@ -1,4 +1,4 @@
-![image](https://i.pinimg.com/control2/736x/1f/c9/cd/1fc9cda6df96840a5e92f37bf403ca9b.jpg)
+![image](https://i.pinimg.com/736x/03/6b/89/036b8910403a8a430f0bba853adec60f.jpg)
 
 # 👋 Hi, I'm Muhannad Majed!
 
