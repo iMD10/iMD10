@@ -1,4 +1,5 @@
-![Header](https://i.pinimg.com/originals/bb/d8/5f/bbd85fa86d8dc8e3fc64d086f6641a5c.gif)
+![image](https://i.pinimg.com/originals/5c/ae/fa/5caefa287638eaae50a1c43d73add8b4.gif)
+
 # 👋 Hi, I'm Muhannad Majed!
 
 **🎓 Computer Science Student | Qassim University**
