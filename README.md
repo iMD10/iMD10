@@ -1,26 +1,33 @@
+
+
+# 👋 Hello, I'm Muhannad Majed!  
+
+<!---
+> *"The future belongs to those who dare to learn and grow."*
+
+--->
 ![image](https://i.pinimg.com/originals/5c/ae/fa/5caefa287638eaae50a1c43d73add8b4.gif)
 
-# 👋 Hi, I'm Muhannad Majed!
+ 
+I’m a **Computer Science student** who enjoys discovering new things and exploring fields that combine **creativity** and **problem-solving**. Currently, I’m diving deeper into **web development** while exploring **AI, application development,** and **data analysis**.  
 
-**🎓 Computer Science Student | Qassim University**
+I love learning and building innovative solutions to challenging problems. Whether it’s creating scalable systems or crafting user-friendly applications, I’m always up for a challenge!
 
-I'm passionate about **Artificial Intelligence** and **Web Development**, with a strong background in programming and database management. I'm always exploring new technologies and building exciting projects that solve real-world problems.
 
 ---
 
-## 🔧 Technical Skills
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
-  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=asm&logoColor=white)
-- **Database Skills**:  
-  📂 Database design, complex queries, optimization strategies, and management.
+## 🚀 My Skills  
+Here are some of the tools, technologies, and languages I’ve worked with:  
 
-- **Web Development**:  
-  🖥️ Experienced with **CRUD systems**, back-end development, and front-end basics.
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)  
+...and more!  
 
 ---
 
@@ -31,19 +38,29 @@ Building a user-friendly platform to manage Quran schools, including student rec
 
 ---
 
-## 💡 What I'm Interested In
-- 🧠 **Artificial Intelligence**: Constantly learning how AI can transform industries and improve user experiences.
-- 🌐 **Web Development**: From backend logic to frontend interactions, I'm eager to develop innovative web solutions.
+## 📂 Featured Projects  
+Here are some of the projects I’ve worked on:  
+
+1. **[Text Similarity using Jaccard Similarity](https://github.com/iMD10/CS315-Texts-Similarity)**  
+   A project comparing texts using the Jaccard Similarity metric.  
+   
+2. **[Linear Programming Problem Solver](https://github.com/iMD10/MATH329-Algebraic-Method)**  
+   A tool to solve linear programming problems using the algebraic method.  
 
 ---
-## 📫 Let's Connect!
-- **Email**: [mohanad.alfawzan1@gmail.com](mailto:mohanad.alfawzan1@gmail.com)
-<!--
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
---->
+## 📊 GitHub Stats  
+
+![Muhannad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMD10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMD10&layout=compact&theme=radical)
+
 ---
-Feel free to explore my repositories and reach out if you'd like to collaborate on an interesting project!
+
+## 📫 How to Reach Me  
+- **Email:** Mohanad.alfawzan1@gmail.com  
+
+---
+
 
 
 <!--
