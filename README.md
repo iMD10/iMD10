@@ -45,7 +45,10 @@ Here are some of the projects I’ve worked on:
    A project comparing texts using the Jaccard Similarity metric.  
    
 2. **[Linear Programming Problem Solver](https://github.com/iMD10/MATH329-Algebraic-Method)**  
-   A tool to solve linear programming problems using the algebraic method.  
+   A tool to solve linear programming problems using the algebraic method.
+
+3. **[Car Rental Software](https://github.com/iMD10/CS342-Car-Rental)**  
+   A Java GUI-based Car Rental System for managing bookings, users, and vehicles with AWS PostgreSQL integration.
 
 ---
 
