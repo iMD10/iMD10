@@ -49,8 +49,9 @@ Here are some of the projects I’ve worked on:
 
 ## 📊 GitHub Stats  
 
-![Muhannad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMD10&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMD10&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMd10&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Muhannad's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=iMd10&theme=react&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMd10&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
