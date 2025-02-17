@@ -25,13 +25,6 @@ Here are some of the tools, technologies, and languages I’ve worked with:
 
 ---
 
-## 🔭 I’m currently working on 
-### 📘 Ertaq Project 
-**CRUD Website for Quran Schools**  
-Building a user-friendly platform to manage Quran schools, including student records, classes, and administrative tasks. This project enhances operational efficiency through a streamlined and intuitive interface.
-
----
-
 ## 📂 Featured Projects  
 Here are some of the projects I’ve worked on:  
 
