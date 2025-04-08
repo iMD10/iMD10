@@ -19,7 +19,7 @@ I love learning and building innovative solutions to challenging problems. Wheth
 ## 🚀 My Skills  
 Here are some of the tools, technologies, and languages I’ve worked with:  
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,python,mysql,react,git,supabase,expressjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,flutter,python,mysql,react,git,supabase,expressjs,nodejs)](https://skillicons.dev)
 
 ...and more!  
 
