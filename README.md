@@ -37,6 +37,11 @@ Here are some of the projects I’ve worked on:
 3. **[Linear Programming Problem Solver](https://github.com/iMD10/MATH329-Algebraic-Method)**  
    A tool to solve linear programming problems using the algebraic method.
 
+4. **[CNN Image Classifier on CIFAR-10](https://github.com/iMD10/cnn-image-classification)**  
+   A Convolutional Neural Network trained on CIFAR-10 using TensorFlow/Keras. Includes feature map visualization and accuracy plots.
+
+5. **[Tic Tac Toe with GUI (PvP & PvE)](https://github.com/iMD10/tic-tac-toe-python)**  
+   A Python-based Tic Tac Toe game using Tkinter with support for both Player vs Player and Player vs Environment modes.
 
 ---
 
