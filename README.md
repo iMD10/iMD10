@@ -41,7 +41,7 @@ Here are some of the projects I’ve worked on:
    A Convolutional Neural Network trained on CIFAR-10 using TensorFlow/Keras. Includes feature map visualization and accuracy plots.
 
 5. **[Tic Tac Toe with GUI (PvP & PvE)](https://github.com/iMD10/tic-tac-toe-python)**  
-   A Python-based Tic Tac Toe game using Tkinter with support for both Player vs Player and Player vs Environment modes.
+   A Python-based Tic Tac Toe game using Tkinter with support for both Player vs Player and Player vs Computer.
 
 ---
 
