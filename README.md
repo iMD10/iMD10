@@ -55,7 +55,7 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 How to Reach Me  
 - **Email:** Mohanad.alfawzan1@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mohanad-alfawzan](http://linkedin.com/in/muhannad-alfawzan-023348246)
+- **LinkedIn:** [Muhannad Alfawzan](http://linkedin.com/in/muhannad-alfawzan-023348246)
 ---
 
 
