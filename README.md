@@ -16,6 +16,12 @@ I love learning and building innovative solutions to challenging problems. Wheth
 
 ---
 
+## 🌐 Portfolio  
+Feel free to check out my personal portfolio website here:  
+🔗 [**Visit My Portfolio**](https://imd10.github.io/Portfolio/)
+
+---
+
 ## 🚀 My Skills  
 Here are some of the tools, technologies, and languages I’ve worked with:  
 
