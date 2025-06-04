@@ -13,13 +13,6 @@ I’m a **Computer Science student** who enjoys discovering new things and explo
 
 I love learning and building innovative solutions to challenging problems. Whether it’s creating scalable systems or crafting user-friendly applications, I’m always up for a challenge!
 
-
----
-
-## 🌐 Portfolio  
-Feel free to check out my personal portfolio website here:  
-🔗 [**Visit My Portfolio**](https://imd10.github.io/Portfolio/)
-
 ---
 
 ## 🚀 My Skills  
@@ -56,6 +49,12 @@ Here are some of the projects I’ve worked on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iMd10&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Muhannad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMd10&theme=react&hide_border=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMd10&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Portfolio  
+Feel free to check out my personal portfolio website here:  
+🔗 [**Visit My Portfolio**](https://imd10.github.io/Portfolio/)
 
 ---
 
