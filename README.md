@@ -9,7 +9,7 @@
 ![image](https://i.pinimg.com/originals/5c/ae/fa/5caefa287638eaae50a1c43d73add8b4.gif)
 
  
-I’m a **Computer Science student** who enjoys discovering new things and exploring fields that combine **creativity** and **problem-solving**. Currently, I’m diving deeper into **web development** while exploring **AI, application development,** and **data analysis**.  
+I’m a **Computer Science student** who enjoys discovering new things and exploring fields that combine **creativity** and **problem-solving**. Currently, I’m diving deeper into **application development** while exploring **AI** and **data analysis**.  
 
 I love learning and building innovative solutions to challenging problems. Whether it’s creating scalable systems or crafting user-friendly applications, I’m always up for a challenge!
 
